@@ -1,9 +1,6 @@
 # Librería Espacios Vectoriales
 
 ## Instalación
-
-dfdhhdsbjhs
-hdbghsdbjnj
-jdhjsdhjskk
+These instructions will get you a copy of the project up and ru
 
 ## Ejemplos
